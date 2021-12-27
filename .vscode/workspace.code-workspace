@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "path": ".."
+        }
+    ],
+    "remoteAuthority": "wsl+Debian",
+    "settings": {
+        "cortex-debug.gdbPath": "/usr/bin/gdb-multiarch",
+    }
+}
