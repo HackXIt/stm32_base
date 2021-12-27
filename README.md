@@ -7,9 +7,10 @@ There might be lots of comments in this base-project, because it helps me in rem
 
 It contains:
 
- - [launch.json](/.vscode/launch.json)
- - [tasks.json](/.vscode/tasks.json)
- - [c_cpp_properties.json](/.vscode/c_cpp_properties.json)
+ - [launch.json](.vscode/launch.json)
+ - [tasks.json](.vscode/tasks.json)
+ - [c_cpp_properties.json](.vscode/c_cpp_properties.json)
+ - [workspace.code-workspace](.vscode/workspace.code-workspace)
 
 Additionally, there *(will be)* ~~are~~ the following guides:
 
