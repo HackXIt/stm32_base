@@ -1,7 +1,8 @@
 # STM32 Base Project
 
 This base project is designed to provide a basic VS code setup for working with STM32 microcontrollers in conjunction with the [CubeMX Initialization Code Generator](https://www.st.com/en/development-tools/stm32cubemx.html).
-I'm personally a student currently developing on the architecture and I simply hate the Cube MX IDE. _(I'm sorry.)_
+
+I personally am a student currently developing on the architecture, so issues might arise...
 
 There might be lots of comments in this base-project, because it helps me in remembering what I made here.
 
